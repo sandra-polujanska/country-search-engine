@@ -1,3 +1,3 @@
-# country-search-engine
+This mini app will let you find any country and its capital.
 
-https://sandra-polujanska.github.io/country-search-engine/
+Used: HTML, CSS, JS, Ajax, API.
